@@ -20,6 +20,10 @@ body {
   width: 75%;
   font-size: 3rem;
   font-family: "Vollkorn", serif;
+  display: flex;
+  justify-content: center;
+  min-height: 400px;
+  flex-direction: column;
 }
 #quote {
   margin: 1% 3% 0;
