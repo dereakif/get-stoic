@@ -37,6 +37,6 @@ const getStoic = () => {
         "\n  -" +
         author +
         ".\n\n " +
-        'Check out these stoic quotes!\n\n  https://dereakif.github.io/get-stoic/" class="twitter-share-button btn btn-dark btn-lg"  data-size="large"><i class="fa fa-twitter"></i>       Tweet</a>';
+        'Check out these stoic quotes!\n\n  https://dereakif.github.io/get-stoic/" class="twitter-share-button btn btn-dark btn-lg"  data-size="large"><i class="fa fa-twitter"></i> Tweet</a>';
     });
 };
