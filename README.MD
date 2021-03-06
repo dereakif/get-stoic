@@ -13,4 +13,4 @@ This project is simple quote generator. Used Fetch to GET data from an API. Has 
 
 Project is created with Vanilla JavaScript.
 
-## [Live demo](https://dereakif.github.io/simplenote-app/)
+## [Live demo](https://dereakif.github.io/get-stoic/)
